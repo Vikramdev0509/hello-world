@@ -17,4 +17,4 @@ jobs:
     
     - name: Run tests
       run: 
-        javac helloworld.java
+        java helloworld.java
